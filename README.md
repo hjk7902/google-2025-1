@@ -1,1 +1,2 @@
-# google-2025-1
+# NIPA-Google ML 부트캠프 실무 프로젝트 1기
++
