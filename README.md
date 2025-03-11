@@ -16,4 +16,4 @@
 * 인공신경망: https://inf.run/7XaEy
 * 데이터 분석 및 EDA: https://inf.run/vcRBC
 * ChatGPT OpenAPI 사용: https://inf.run/rmN1j
-* 자바와 파이썬 AI서버 연결: https://inf.run/ojAFs
+* 자바와 파이썬 AI서버 연결: https://inf.run/ojAFs, https://inf.run/rL4zQ
