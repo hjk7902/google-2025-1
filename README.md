@@ -9,3 +9,11 @@
 * OpenAPI를 활용한 인공지능 서비스 개발
 * 인공지능 플랫폼(Roboflow, Ultralytics, LangChain, HuggingFace)
 * 자바 스프링 부트 프로젝트와 파이썬 AI 프로젝트 연결하기
+
+# 인프런 쿠폰
+* 파이썬: https://inf.run/7M83F
+* 자바: https://inf.run/yswkP
+* 인공신경망: https://inf.run/7XaEy
+* 데이터 분석 및 EDA: https://inf.run/vcRBC
+* ChatGPT OpenAPI 사용: https://inf.run/rmN1j
+* 자바와 파이썬 AI서버 연결: https://inf.run/ojAFs
