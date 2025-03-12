@@ -12,7 +12,7 @@
 
 # 인프런 쿠폰
 * 파이썬: https://inf.run/7M83F
-* 자바: https://inf.run/yswkP, https://inf.run/rL4zQ
+* 자바: https://inf.run/rL4zQ
 * 인공신경망: https://inf.run/7XaEy
 * 데이터 분석 및 EDA: https://inf.run/vcRBC
 * ChatGPT OpenAPI 사용: https://inf.run/rmN1j
