@@ -1,3 +1,7 @@
+# 감마 회원가입 링크
+* https://gamma.app/signup?r=0aaomchoi4kigvm![image](https://github.com/user-attachments/assets/7e2cbd13-c497-4834-b1d3-9c076d54c6b1)
+* 이 링크로 가입하면 200 크레딧을 더 받을 수 있습니다.
+  
 # NIPA-Google ML 부트캠프 실무 프로젝트 1기
 * 인공지능 프로젝트 과정의 이해와 산출물의 요소
 * 개발환경 구성
