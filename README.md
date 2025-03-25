@@ -1,6 +1,11 @@
 # 감마 회원가입 링크
 * https://gamma.app/signup?r=0aaomchoi4kigvm
 * 이 링크로 가입하면 200 크레딧을 더 받을 수 있습니다.
+
+# 자바 풀스택과정(KCC 정보통신 채용 연계형)
+* 아래 주소에서 공지를 볼 수 있습니다.
+* KCC 정보통신 채용연계형 과정은 4월 중순경 과정이 공지되며, 5월 중순에 시작합니다.
+* https://www.sw.or.kr/site/sw/edu/selectEduNewListGallery.do
   
 # NIPA-Google ML 부트캠프 실무 프로젝트 1기
 * 인공지능 프로젝트 과정의 이해와 산출물의 요소
